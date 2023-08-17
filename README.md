@@ -25,13 +25,9 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Scala, Go
 
-📫 How to reach me prani.bansal18@gmail.com
+📫 How to reach me prani.bansal18@gmail.com, pxb45230@ucmo.edu
 
 📄 Know about my work & experiences My Resume
-
-Publication on Absenteeism at Work
-
-Publication on Sentiment Analysis
 
 What are my featured projects❓🚀
 Absenteeism Sentiment Analysis Visualization DNS Resolver
