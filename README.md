@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello  👋 I'm Prani Bansal
-print("👩‍🎓 Master's degree in Computer Science from Stony Brook University")
-uvudatha
+                                                  ### Hello  👋 I'm Prani Bansal
+                                          print("👩‍🎓 Senior Data Scientist at Concentrix ")
+
 
 👨‍💻 All about me is at My Website
 
-💬 Ask me about var topics = ["Python", "Data Engineering", "Machine Learning", "Natural Language Processing", "Competitive Programming"]
+💬 Ask me about = ["Python", "Data Engineering","Sql", "Machine Learning", "Natural Language Processing", "Competitive Programming"]
 
 🌱 I’m currently learning Scala, Go
 
@@ -37,7 +37,7 @@ What are my featured projects❓🚀
 Absenteeism Sentiment Analysis Visualization DNS Resolver
 
 Let's Connect😁
-usha-vudatha
+pranibansal
 
 Languages and Tools
-java python
+sql python
