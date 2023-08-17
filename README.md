@@ -33,7 +33,7 @@ What are my featured projects❓🚀
 Absenteeism Sentiment Analysis Visualization DNS Resolver
 
 Let's Connect😁
-pranibansal
+mansibansalcute
 
 Languages and Tools
 sql python
