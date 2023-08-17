@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello  I'm Usha Vudatha
+print("👩‍🎓 Master's degree in Computer Science from Stony Brook University")
+uvudatha
+
+👨‍💻 All about me is at My Website
+
+💬 Ask me about var topics = ["Python", "Java", "Machine Learning", "Natural Language Processing", "Competitive Programming"]
+
+🌱 I’m currently learning Go
+
+📫 How to reach me ushavudatha@gmail.com
+
+📄 Know about my work & experiences My Resume
+
+Publication on Absenteeism at Work
+
+Publication on Sentiment Analysis
+
+What are my featured projects❓🚀
+Absenteeism Sentiment Analysis Visualization DNS Resolver
+
+Let's Connect😁
+usha-vudatha
+
+Languages and Tools
+java python
