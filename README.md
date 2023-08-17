@@ -21,11 +21,11 @@ uvudatha
 
 👨‍💻 All about me is at My Website
 
-💬 Ask me about var topics = ["Python", "Java", "Machine Learning", "Natural Language Processing", "Competitive Programming"]
+💬 Ask me about var topics = ["Python", "Data Engineering", "Machine Learning", "Natural Language Processing", "Competitive Programming"]
 
-🌱 I’m currently learning Go
+🌱 I’m currently learning Scala, Go
 
-📫 How to reach me ushavudatha@gmail.com
+📫 How to reach me prani.bansal18@gmail.com
 
 📄 Know about my work & experiences My Resume
 
